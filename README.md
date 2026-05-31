@@ -93,28 +93,7 @@ Add dashboard screenshots here.
 
 ### Main Dashboard
 
-![Dashboard Screenshot](images/dashboard.png)
-
----
-
-## 📁 Repository Structure
-
-```text
-Sales-Analysis-Dashboard/
-│
-├── data/
-│   └── Sales.csv.xlsx
-│
-├── images/
-│   └── dashboard.png
-│
-├── dashboard/
-│   └── Sales_Dashboard.xlsx
-│
-├── README.md
-│
-└── insights.md
-```
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/EIA588/Sales_data_analysis/commit/cd2956e1d81da462c27909681d6faf4690ab899b))
 
 ---
 
