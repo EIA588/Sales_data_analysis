@@ -111,7 +111,7 @@ Through this project, I gained experience in:
 **Isaac Ajibola Ekunola**
 
 * LinkedIn: https://www.linkedin.com/in/isaac-ajibola-ekunola-76401a2ba/
-* GitHub: https://github.com/yourusername
+* GitHub: https://github.com/EIA588
 
 Feel free to connect or provide feedback on the project.
 
