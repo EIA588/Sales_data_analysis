@@ -86,10 +86,11 @@ Some of the insights generated from the dashboard include:
 * Opportunities for revenue growth.
 
 ---
-
 ## 📷 Dashboard Preview
 
-[(https://github.com/EIA588/Sales_data_analysis/commit/cd2956e1d81da462c27909681d6faf4690ab899b]
+![Dashboard Screenshot](https://github.com/EIA588/Sales_data_analysis/commit/cd2956e1d81da462c27909681d6faf4690ab899b)
+
+
 
 ---
 
@@ -119,3 +120,5 @@ Feel free to connect or provide feedback on the project.
 ## ⭐ If You Found This Project Useful
 
 Please consider giving this repository a star to support my work and future data analytics projects.
+
+
