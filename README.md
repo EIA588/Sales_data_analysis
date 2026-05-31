@@ -89,9 +89,7 @@ Some of the insights generated from the dashboard include:
 
 ## 📷 Dashboard Preview
 
-### Main Dashboard
-
-![Dashboard Screenshot][(https://github.com/EIA588/Sales_data_analysis/commit/cd2956e1d81da462c27909681d6faf4690ab899b]
+[(https://github.com/EIA588/Sales_data_analysis/commit/cd2956e1d81da462c27909681d6faf4690ab899b]
 
 ---
 
